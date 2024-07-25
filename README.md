@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Esti
+## Hi there 👋, I'm Elisheva
 
 I am a software engineering who loves programming and always wants to learn more and increase my knowledge
 ## 👩‍💻Languages, Tools and Technologies I Know and use
