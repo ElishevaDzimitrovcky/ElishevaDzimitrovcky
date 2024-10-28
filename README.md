@@ -1,10 +1,10 @@
 <h1><b><p align="center">
 
 Hello 👋, I'm Elisheva Dzimitrovsky!</p></b></h1>
-<h4 align="center"><b>I'm a developer specializing in frontend, backend, and full-stack development. I bring strong self-learning skills, attention to detail, and a goal-oriented approach to every project, ensuring quality and efficiency.
+<h4 align="center"><b>I'm a dedicated developer specializing in frontend, backend, and full-stack development. I possess strong self-learning skills, meticulous attention to detail, and a goal-oriented approach that drives me to achieve and exceed project objectives.
 
 .</b></h4>
-##👩‍💻 About Me
+## 👩‍💻About Me
 
 
 
