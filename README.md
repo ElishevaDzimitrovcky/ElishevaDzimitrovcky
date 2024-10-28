@@ -4,9 +4,6 @@ Hello 👋, I'm Elisheva Dzimitrovsky!l</p></b></h1>
 <h4 align="center"><b>I'm a developer specializing in frontend, backend, and full-stack development. I bring strong self-learning skills, attention to detail, and a goal-oriented approach to every project.
 
 .</b></h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
-
 ## 👩‍💻 About Me
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
