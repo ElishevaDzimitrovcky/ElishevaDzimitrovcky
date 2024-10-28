@@ -1,19 +1,19 @@
 <h1><b><p align="center">
 
-Hello 👋, I'm Elisheva Dzimitrovsky!l</p></b></h1>
-<h4 align="center"><b>I'm a developer specializing in frontend, backend, and full-stack development. I bring strong self-learning skills, attention to detail, and a goal-oriented approach to every project.
+Hello 👋, I'm Elisheva Dzimitrovsky!</p></b></h1>
+<h4 align="center"><b>I'm a developer specializing in frontend, backend, and full-stack development. I bring strong self-learning skills, attention to detail, and a goal-oriented approach to every project, ensuring quality and efficiency.
 
 .</b></h4>
-## 👩‍💻 About Me
-
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+##👩‍💻 About Me
 
 
- 🎯 Frontend, Backend, and Full-Stack Developer
-🔧 Skilled in both client-side and server-side technologies
-⚙️ Focused on code quality and performance optimization
-💡 Passionate about building scalable and engaging solutions
-🤝 Loves collaborating with others in a team environment
+
+- 🎯 Frontend, Backend, and Full-Stack Developer
+- 🔧 Skilled in both client-side and server-side technologies
+- ⚙️ Focused on code quality and performance optimization
+- 💡 Passionate about building scalable and engaging solutions
+- 🤝 Loves collaborating with others in a team environment
+
 
 
 ## 🚀My Mission
@@ -51,29 +51,9 @@ As a developer, I bring enthusiasm, dedication, and a constant drive to learn to
  </p>
 
 ## 📫Let's Connect
-
-
-Here's the updated version with "Hello" at the beginning:
-
-Hello everyone 👋, I'm Elisheva Dzimitrovsky!
-I'm a developer specializing in frontend, backend, and full-stack development. I bring strong self-learning skills, attention to detail, and a goal-oriented approach to every project.
-
-👩‍💻 About Me
-🎯 Frontend, Backend, and Full-Stack Developer
-🔧 Skilled in both client-side and server-side technologies
-⚙️ Focused on code quality and performance optimization
-💡 Passionate about building scalable and engaging solutions
-🤝 Loves collaborating with others in a team environment
-🎯 My Mission
-As a developer, I bring enthusiasm, dedication, and a constant drive to learn to every project. I’m committed to delivering quality software and continuously improving my skills.
-
-🛠️ Languages and Tools
-Add icons for languages, frameworks, and tools you specialize in (e.g., JavaScript, React, Node.js, SQL, etc.)
-
-📬 Let's Connect
 Feel free to reach out for collaboration or just to chat!
-
-Email: ElishevaDzimi@gmail.com
+Email:
+ElishevaDzimi@gmail.com
 
 
 ## 📊Github Stats
